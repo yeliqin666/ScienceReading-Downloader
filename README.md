@@ -20,30 +20,14 @@
 * **Firefox**: [Greasemonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)
 
 ### 安装步骤
-1.  [点击这里安装脚本](#) (这里填你发布后的 GreasyFork 或 GitHub Raw 链接)
+1.  [点击这里安装脚本](#) (https://github.com/yeliqin666/ScienceReading-Downloader/raw/main/ScienceReading Background Downloader (Stable v2.5)-2.5.user.js)
 2.  打开 [科学文库](https://book.sciencereading.cn/) 任意书籍详情页。
 3.  登录账号（必须有阅读权限）。
 4.  点击页面上的红色 **“⚡ 静默破解下载”** 按钮。
 5.  等待按钮文字提示“下载完成”，浏览器即会自动保存 PDF 文件。
 
 ## 🛠️ 技术原理
-
-本脚本利用了网页中暴露的 PDF SDK 接口，通过以下步骤实现下载：
-1.  在后台创建离屏 `iframe` 加载阅读器。
-2.  注入脚本调用 `extractPages` 接口提取所有页面数据。
-3.  调用 `createNewDoc` 重组文档并恢复书签。
-4.  生成 Blob 对象并触发浏览器下载。
-
-## ⚠️ 免责声明 (Disclaimer)
-
-* 本脚本仅供**个人学习和技术研究**使用。
-* 请勿将下载的电子书用于商业用途或非法传播。
-* 使用本脚本所产生的任何法律责任由使用者自行承担。
-* 如果本脚本侵犯了您的权益，请联系作者删除。
-
-## 🤝 贡献与致谢
-
-* 核心思路参考自 GitHub @TsXor 的研究。
+略。TsXor 的研究。
 
 ---
 *Made with ❤️ by Google Gemini*
