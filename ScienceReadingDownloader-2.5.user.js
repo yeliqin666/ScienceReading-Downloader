@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ScienceReading Background Downloader (Stable v2.5)
+// @name         ScienceReadingDownloader
 // @namespace    http://tampermonkey.net/
 // @version      2.5
 // @description  自动重命名和静默下载。
