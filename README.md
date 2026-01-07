@@ -20,7 +20,7 @@
 * **Firefox**: [Greasemonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)
 
 ### 安装步骤
-1.  [点击这里安装脚本](#) (https://github.com/yeliqin666/ScienceReading-Downloader/raw/main/ScienceReading Background Downloader (Stable v2.5)-2.5.user.js)
+1.  [点击这里安装脚本](https://github.com/yeliqin666/ScienceReading-Downloader/raw/main/ScienceReadingDownloader-2.5.user.js)
 2.  打开 [科学文库](https://book.sciencereading.cn/) 任意书籍详情页。
 3.  登录账号（必须有阅读权限）。
 4.  点击页面上的红色 **“⚡ 静默破解下载”** 按钮。
